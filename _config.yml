@@ -19,7 +19,7 @@ description: >
 baseurl: "/pages-starter" # the subpath of your site
 url: "https://carinavlaun.github.io"
 email: carinavlaun16@gmail.com
-github_username:  carinavlaun
+
 # Build settings
 markdown: kramdown
 sass:
