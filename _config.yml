@@ -11,11 +11,11 @@
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
+# You can create any custom variable you would like, and they will be accessible+
 # in the templates via {{ site.myvariable }}.
 title: coding girl.
 description: >
-  This site will get you started hacking with GitHub Pages.
+  This site will trip up your mind man.
 baseurl: "/pages-starter" # the subpath of your site
 url: "https://carinavlaun.github.io"
 email: carinavlaun16@gmail.com
